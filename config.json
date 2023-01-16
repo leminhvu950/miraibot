@@ -12,10 +12,11 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Mirai-Project",
-    "PREFIX": "'",
+    "BOTNAME": "Bot Mess",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100040984926932"
+        "100079086107928",
+        "100052494002958"
     ],
     "DATABASE": {
         "sqlite": {
